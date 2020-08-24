@@ -15,4 +15,4 @@
 1. List Item 2
 1. List Item 3
 
-MSSA 18-Week ASP.NET *Core* MVC_Web_ **Application** Project 
+MSSA *__18-Week__*__ASP.NET__ *Core* MVC_Web_ **Application** Project 
