@@ -12,7 +12,7 @@
 * List Item C
 
 1. List Item 1
-  A.  List Item 1A
-2. List Item 2
-3. List Item 3
-MSSA 18-Week ASP.NET Core MVC Web Application Project 
+1. List Item 2
+1. List Item 3
+
+MSSA 18-Week ASP.NET *Core* MVC_Web_ **Application** Project 
