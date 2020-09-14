@@ -7,7 +7,7 @@
 
 #
 
-[Database Diagram]
+[Database Diagram](UpgradeDataBaseDiagrampt2.pdf)
 
 I opted to go with the idea of a vehicle parts database out of personal experience over the past ten years working on cars and performing modifications.  One of the things I always end up forgetting over time is “did I replace that already?” or “when does the warranty on that expire?”, or maybe a question I hate to ask myself, which is “how much money have I spent on this car”.  Even performing the modifications yourself, the parts themselves can add up quickly, but this database would be able to tell you how much you have invested in it, what still needs upgraded, when warranties on various parts expire, and whatever other information the user would like to input.  I want to make this a one stop shop for documenting the investment and durability of a owner’s vehicle or vehicles.  
 
